@@ -2,6 +2,8 @@
 
 A TikTok-style short video browsing interface built with **React + Vite**, designed for performance, keyboard interaction, and clean multimedia UX. It simulates a smart TV-like video feed experience and demonstrates frontend skills aligned with modern short-form entertainment platforms.
 
+🌐 [Live Demo](https://shortcasttv.vercel.app/)
+
 ---
 
 ## 📌 Features
